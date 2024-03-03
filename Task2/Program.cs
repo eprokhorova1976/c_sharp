@@ -17,3 +17,10 @@ double product3 = i1*d1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+int quotlient = i1/i2;
+Console.WriteLine(quotlient);
+
+d1 = 5;
+double quotlient1 = d1/i2;
+Console.WriteLine(quotlient1);
