@@ -1,0 +1,15 @@
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\bin\Debug\net8.0\Task2.exe
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\bin\Debug\net8.0\Task2.dll
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\bin\Debug\net8.0\Task2.pdb
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\Task2.dll
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\Task2.pdb
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\МОИ ДОКИ\C#\Practice\lesson3\Task2\obj\Debug\net8.0\ref\Task2.dll
